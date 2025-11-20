@@ -1,1 +1,0 @@
-This is a simple text file, text is ok.
