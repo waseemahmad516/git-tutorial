@@ -2,4 +2,4 @@ This is a simple text file, text is ok. updating this file.
 some new code changes update
 code changes in master
 new code changes
-
+update in remote side i.e bitbucket
